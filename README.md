@@ -22,6 +22,15 @@ Seriously, I don't get to code very often anymore and AoC rewards quickness to t
     <td>Score</td>
   </tr>
   <tr>
+    <td>4</td>
+    <td>01:29:55</td>
+    <td>17246</td>
+    <td>0</td>
+    <td>01:51:57</td>
+    <td>13907</td>
+    <td>0</td>
+  </tr>
+  <tr>
     <td>3</td>
     <td>02:19:51</td>
     <td>13109</td>
